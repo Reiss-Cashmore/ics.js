@@ -75,5 +75,6 @@ Supported Browsers
 
 Credits
 ------------------
-* [Travis Krause](https://github.com/nwcell): Me
+* [Reiss Cashmore](https://github.com/Reiss-Cashmore): Me
+* [Travis Krause](https://github.com/nwcell): Built the original ICS.JS
 * [Kyle Hornberg](https://github.com/khornberg): Added multi event functionality and made everything a package firendly
